@@ -4,7 +4,7 @@ Smart strips
 
 .. note::
 
-    The emeter feature is currently not implemented for smart strips. See https://github.com/python-kasa/python-kasa/issues/64 for details.
+    As of release 0.4.0 in September 2021 the emeter feature is now implemented for smart strips. For some history on this you can see https://github.com/python-kasa/python-kasa/issues/64 for details.
 
 .. note::
 
